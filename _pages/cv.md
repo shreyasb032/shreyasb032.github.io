@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial and Operations Engineering, University of Michigan, 2025 (expected)
+* M.S. in Robotics, University of Michigan, 2021
+* B.S. in Mechanical Engineering, Indian Institute of Technology, Bombay, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Research Intern
+  * Honda Research Institute
+  * Duties includes: Inverting the Social Navigation Problem - generating trajectories for mobile robots that optimally nudge human trajectories in desired directions
+  * Supervisor: [Kumar Akash](https://www.linkedin.com/in/kumar-akash/)
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -30,16 +30,22 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Numpy
+  * Pandas
+  * Pytorch
+* Unreal Engine
+  * C++
+  * Blueprints
+* Research
+  * Literature review
+  * Research writing
+  * Data analysis
+  * Human-subject testing
 
 Publications
 ======
