@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/clustering-trust-dynamics-IROS
 venue: "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
-slidesurl: 'http://academicpages.github.io/files/clustering-paper-RAL-slides.pdf'
+slidesurl: 'http://shreyasb032.github.io/files/clustering-paper-RAL-slides.pdf'
 date: 2022-10-25
 location: "Kyoto, Japan"
 ---
