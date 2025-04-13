@@ -6,8 +6,8 @@ permalink: /publication/value-alignment-HRI
 excerpt: "This paper examines the effect of real-time, personalized alignment of a robot's reward function to the human's values on trust and team performance. We present and compare three distinct robot interaction strategies: a non-learner strategy where the robot presumes the human's reward function mirrors its own; a non-adaptive-learner strategy in which the robot learns the human's reward function for trust estimation and human behavior modeling, but still optimizes..."
 date: 2024-03-11
 venue: 'ACM/IEEE International Conference on Human-Robot Interaction'
-slidesurl: 'http://academicpages.github.io/files/value-alignment-HRI-slides.pdf'
-paperurl: 'http://academicpages.github.io/files/value-alignment-HRI.pdf'
+slidesurl: 'http://shreyasb032.github.io/files/value-alignment-HRI-slides.pdf'
+paperurl: 'http://shreyasb032.github.io/files/value-alignment-HRI.pdf'
 citation: "Shreyas Bhat, Joseph B. Lyons, Cong Shi, and X. Jessie Yang. 2024. Evaluating the Impact of Personalized Value Alignment in Human-Robot Interaction: Insights into Trust and Team Performance Outcomes. In Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24). Association for Computing Machinery, New York, NY, USA, 32–41. https://doi.org/10.1145/3610977.3634921"
 ---
 

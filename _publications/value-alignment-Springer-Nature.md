@@ -6,7 +6,7 @@ permalink: /publication/value-alignment-Springer-Nature
 excerpt: "With the advent of AI technologies, humans and robots are increasingly teaming up to perform collaborative tasks. To enable smooth and effective collaboration, the topic of value alignment (operationalized herein as the degree of dynamic goal alignment within a task) between the robot and the human is gaining increasing research attention. Prior literature on value alignment makes an inherent assumption that aligning the values of the robot with that of the human benefits the team. This assumption, however..."
 date: 2024-07-24
 venue: 'Discovering the Frontiers of Human-Robot Interaction. Springer, Cham.'
-paperurl: 'http://academicpages.github.io/files/value-alignment-Springer-Nature.pdf'
+paperurl: 'http://shreyasb032.github.io/files/value-alignment-Springer-Nature.pdf'
 citation: 'Bhat, S., Lyons, J.B., Shi, C., Yang, X.J. (2024). Value Alignment and Trust in Human-Robot Interaction: Insights from Simulation and User Study. In: Vinjamuri, R. (eds) Discovering the Frontiers of Human-Robot Interaction. Springer, Cham. https://doi.org/10.1007/978-3-031-66656-8_3'
 ---
 
