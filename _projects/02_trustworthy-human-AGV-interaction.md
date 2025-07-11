@@ -4,6 +4,8 @@ excerpt: "In this project, we try to generate trustworthy behaviors for Automate
 collection: projects
 ---
 
+# Trustworthy Human-AGV Interaction
+
 In this project, we try to generate trustworthy behaviors for Automated Guided Vehicles (AGVs) while interacting with human workers in shared workspaces in manufacturing plants. As a first step, we modeled worker motion as a Finite Automaton Model (FAM) with 6 intuitive states and transition functions that could be set up easily once we get the plan of the manufacturing plant. The image below shows an illustration of how these states work as a worker moves around in the manufacturing plant.
 
 <img src='/images/fam-paper-cover-image.png'>
@@ -15,3 +17,9 @@ We developed a Virtual Reality version of a real-life manufacturing plant used b
 The participants in our study are able to freely walk around in the environment using the Meta Quest Pro headset and the KAT Walk C2 Omnidirectional treadmill. They are also able to interact with objects in the environment using the hand-held controllers. These equipment are shown in images below.
 
 <img src='/images/VR-equipment.png'>
+
+This project has led to 1 peer-reviewed conference proceedings.
+
+### Selected Publications
+
+- [Identifying Worker Motion Through a Manufacturing Plant: A Finite Automaton Model](https://ieeexplore.ieee.org/abstract/document/10731360), *IEEE International Conference on Human-Robot Interactive Communication (RO-MAN)*, 2025
