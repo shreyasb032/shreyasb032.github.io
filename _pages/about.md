@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD Candidate in the [Industrial and Operations Engineering Department](https://ioe.engin.umich.edu/) at the University of Michigan. I am a part of the Interaction and Collaboration Research Lab [(ICRL)](https://icrl.engin.umich.edu/). 
+I am a fourth-year Ph.D. candidate in the [Industrial and Operations Engineering Department](https://ioe.engin.umich.edu/){:target="_blank"} Department at the University of Michigan and a member of the Interaction and Collaboration Research Lab [(ICRL)](https://icrl.engin.umich.edu/){:target="_blank"}.
 
-My research focuses on learning human trust dynamics, modeling their behavior based on trust, and designing robot interaction strategies that promote trust in the context of human-robot teams. This research sits at the exciting intersection of human-factors and optimization, the two main facets of Industrial Engineering.
+My research centers on understanding and modeling human trust dynamics, predicting behavior as a function of trust, and designing robot interaction strategies that foster trust within human-robot teams. This work lies at the intersection of human factors and optimization—the two core pillars of Industrial Engineering.
 
-Explore the tabs above to know more about my research through publications, talks, projects, and my curriculum vitae.
+Please explore the tabs above to learn more about my research, including publications, presentations, projects, and my curriculum vitae.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
