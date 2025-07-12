@@ -38,9 +38,12 @@ Skills
   * Numpy
   * Pandas
   * Pytorch
+  * Matplotlib
+  * Seaborn
 * Unreal Engine
   * C++
   * Blueprints
+  * Neural Network Engine
 * Research
   * Literature review
   * Research writing

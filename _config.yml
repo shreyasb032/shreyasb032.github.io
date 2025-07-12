@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Shreyas Bhat"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Interests - Human-Robot Interaction, Trust, Adaptability"
+  # pronouns         : "he/him"  
+  bio              : "Human-Robot Interaction, Trust in HRI, Human-Behavior Modeling"
   location         : "Ann Arbor"
   employer         : "University of Michigan"
   uri              : # URL
