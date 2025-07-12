@@ -13,7 +13,7 @@ My research centers on understanding and modeling human trust dynamics, predicti
 
 Please explore the tabs above to learn more about my research, including publications, presentations, projects, and my curriculum vitae.
 
-**Research Interests:** Human-Robot Interaction, Human Behavior Modeling, Trust in HRI\
+<!-- **Research Interests:** Human-Robot Interaction, Human Behavior Modeling, Trust in HRI\ -->
 **Career Interests:** I am eager to explore industry opportunities where I can apply my expertise in robotics, human-robot interaction, and software development to drive innovative solutions.\
 **Technical Skills:** Python, C++, Unreal Engine, Behavior Modeling, Mathematical Optimization, ROS2
 
