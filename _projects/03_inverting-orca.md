@@ -16,7 +16,7 @@ We developed a 2-D multi-agent simulation environment using the [Farama Gymnasiu
 
 Through simulations, we compute the "nudge efficiency" metric, which showed that the best way to nudge an agent in a desired direction is to "lead" them towards that direction. The figure below shows this nudge efficiency metric around the target agent. 
 
-<img src = '/images/nudge-efficiency.png>
+<img src = '/images/nudge-efficiency.png'>
 
 Below are the formal definitions of the algorithms we developed.
 
