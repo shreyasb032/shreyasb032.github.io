@@ -20,6 +20,9 @@ The participants in our study are able to freely walk around in the environment 
 
 This project has led to 1 peer-reviewed conference proceedings.
 
+We are currently working on developing a Temporal Fusion Transformer (TFT) based trajectory prediction model that leverages the state-of-the-art diffusion models to generate future positions of the workers in the next 4 seconds. Using these predicted positions, the AGVs can then modify their own behavior (e.g. slow down, indicate it's intent using eHMIs, move around, etc.). At the current stage of the project, our model only predicts the future trajectory of one agent. We are currently working towards extending this to multi-agent scenarios with explicit inter-agent interaction modeling. We will pre-train this model using open-source datasets and then fine-tune using some simulated data. Towards that, we will also be developing a multi-agent simulator in Unreal Engine using behavior trees.
+
+
 ### Selected Publications
 
 - [Identifying Worker Motion Through a Manufacturing Plant: A Finite Automaton Model](https://ieeexplore.ieee.org/abstract/document/10731360), *IEEE International Conference on Human-Robot Interactive Communication (RO-MAN)*, 2025
