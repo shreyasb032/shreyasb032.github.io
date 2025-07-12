@@ -1,17 +1,22 @@
 ---
 permalink: /
-title: "Learning Human Behavior for Promoting Trustworthy Human-Robot Interaction"
+title: "Building Trust in Human-Robot Collaboration"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in the [Industrial and Operations Engineering Department](https://ioe.engin.umich.edu/){:target="_blank"} Department at the University of Michigan and a member of the Interaction and Collaboration Research Lab [(ICRL)](https://icrl.engin.umich.edu/){:target="_blank"}.
+I am a fifth-year Ph.D. candidate in the [Industrial and Operations Engineering Department](https://ioe.engin.umich.edu/){:target="_blank"} Department at the University of Michigan and a member of the Interaction and Collaboration Research Lab [(ICRL)](https://icrl.engin.umich.edu/){:target="_blank"}.
 
 My research centers on understanding and modeling human trust dynamics, predicting behavior as a function of trust, and designing robot interaction strategies that foster trust within human-robot teams. This work lies at the intersection of human factors and optimization—the two core pillars of Industrial Engineering.
 
 Please explore the tabs above to learn more about my research, including publications, presentations, projects, and my curriculum vitae.
+
+**Research Interests:** Human-Robot Interaction, Human Behavior Modeling, Trust in HRI\
+**Career Interests:** I am eager to explore industry opportunities where I can apply my expertise in robotics, human-robot interaction, and software development to drive innovative solutions.\
+**Technical Skills:** Python, C++, Unreal Engine, Behavior Modeling, Mathematical Optimization, ROS2
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
