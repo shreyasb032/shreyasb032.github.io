@@ -14,8 +14,19 @@ My research centers on understanding and modeling human trust dynamics, predicti
 Please explore the tabs above to learn more about my research, including publications, presentations, projects, and my curriculum vitae.
 
 <!-- **Research Interests:** Human-Robot Interaction, Human Behavior Modeling, Trust in HRI\ -->
-**Career Interests:** I am eager to explore industry opportunities where I can apply my expertise in robotics, human-robot interaction, and software development to drive innovative solutions.\
-**Technical Skills:** Python, C++, Unreal Engine, Behavior Modeling, Mathematical Optimization, ROS2
+### Career Interests:
+I am eager to explore industry opportunities where I can apply my expertise in robotics, human-robot interaction, and software development to drive innovative solutions.
+<!-- **Technical Skills:** Python, C++, Unreal Engine, Behavior Modeling, Mathematical Optimization, ROS2 -->
+
+### Technical Skills:
+I specialize in tools and methodologies for human-robot interaction and system optimization:
+
+- <img src="/images/logos/python-logo.png" alt="Python icon" width="20"> **Python**: Algorithm development and data analysis
+- <img src="/images/logos/cpp-logo.png" alt="C++ icon" width="20"> **C++**: Programming for real-time applications
+- <img src="/images/logos/unreal-engine.png" alt="Unreal Engine icon" width="20"> **Unreal Engine**: Advanced simulation environments
+<!-- - <img src="/images/logos/simulation.png" alt="Simulation icon" width="20"> **Simulation**: Robotic and human-robot interaction simulations -->
+- <img src="/images/logos/mathematical.png" alt="Optimization icon" width="20"> **Optimization**: Mathematical optimization
+- <img src="/images/logos/robot.png" alt="ROS2 icon" width="20"> **ROS2**: Robot Operating System for robotic integration
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
