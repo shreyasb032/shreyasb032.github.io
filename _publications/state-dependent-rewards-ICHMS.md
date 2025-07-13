@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/state-dependent-rewards-ICHMS
 excerpt: " this paper, we evaluate two interaction strategies for a robot in a sequential decision-making task: one which uses a state-dependent reward function and the other that uses a state-independent (constant) reward function. Towards this, we present a study done on Amazon Mechanical Turk to learn the state-dependent reward function. Using this reward function, we compare the two strategies in simulation..."
-date: 2024-03-11
-venue: 'ACM/IEEE International Conference on Human-Robot Interaction'
+date: 2025-08-11
+venue: 'IEEE International Conference on Human-Machine Systems'
 slidesurl: 'http://shreyasb032.github.io/files/state-dependent-rewards-ICHMS-slides.pdf'
 paperurl: 'http://shreyasb032.github.io/files/state-dependent-rewards-ICHMS.pdf'
 citation: "Shreyas Bhat, Joseph B. Lyons, Cong Shi, and X. Jessie Yang. 2025. Effects of Learning State Dependence of Reward Weights on Trust and Team Performance in a Human-Robot Sequential Decision-Making Task. In Proceedings of the 2025 IEEE International Conference on Human-Machine Systems (ICHMS '25)."
