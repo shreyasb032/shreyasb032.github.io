@@ -22,4 +22,4 @@ Below are the formal definitions of the algorithms we developed.
 
 <img src = '/images/i-orca-algs.png'>
 
-All work was done during my summer internship at the [Honda Research Institute](https://usa.honda-ri.com/) in 2025.
+All work was done during my summer internship at the [Honda Research Institute](https://usa.honda-ri.com/) in 2025. Github repository is available at [https://github.com/shreyasb032/i_orca](https://github.com/shreyasb032/i_orca)

@@ -1,0 +1,13 @@
+---
+title: "Interactions Between Workers and Automated Guided Vehicles: Impact of eHMI Design"
+collection: publications
+category: conferences
+permalink: /publication/ehmi-design-HFES
+excerpt: "As manufacturing facilities integrate Autonomated Guided Vehicles (AGVs) to improve workflow efficiency, enhancing human-AGV interaction remains critical for workplace safety. While prior research has focused on vehicle and pedestrian motion prediction, effective interaction requires two-way communication, where the AGVs clearly convey intentions to the workers to enhance safety. This study investigates the impact of external Human-Machine Interface (eHMI)..."
+date: 2025-09-28
+venue: 'Proceedings of the Human Factors and Ergonomics Society Annual Meeting'
+paperurl: 'http://shreyasb032.github.io/files/han-et-al-2025-interactions-between-workers-and-automated-guided-vehicles-impact-of-ehmi-design.pdf'
+citation: 'Han, D. W., Bhat, S., Yang, S., Smith, J., Salour, A., Stroup, T., Pridham, P., Liu, Y., & Yang, X. J. (2025). Interactions Between Workers and Automated Guided Vehicles: Impact of eHMI Design. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 69(1), 1166-1172. https://doi.org/10.1177/10711813251372529'
+---
+
+As manufacturing facilities integrate Autonomated Guided Vehicles (AGVs) to improve workflow efficiency, enhancing human-AGV interaction remains critical for workplace safety. While prior research has focused on vehicle and pedestrian motion prediction, effective interaction requires two-way communication, where the AGVs clearly convey intentions to the workers to enhance safety. This study investigates the impact of external Human-Machine Interface (eHMI) integrated with a predictive model on AGV-worker interaction. We designed LED light strip patterns to convey intentions and selected optimal designs through an online survey. We deployed three types of AGVs in a virtual reality (VR) environment: Control, Prediction, and eHMI + Prediction. Participants completed tasks while interacting with AGVs, followed by subjective assessments of trust, perceived safety, perceived performance, and understandability. A one-way repeated measures ANOVA revealed a significant improvement in perceived safety from eHMI + Prediction condition compared to the Control condition, suggesting that explicit communication via eHMI enhances perceived safety in AGV interactions.

@@ -26,3 +26,4 @@ We are currently working on developing a Temporal Fusion Transformer (TFT) based
 ### Selected Publications
 
 - [Identifying Worker Motion Through a Manufacturing Plant: A Finite Automaton Model](https://ieeexplore.ieee.org/abstract/document/10731360), *IEEE International Conference on Human-Robot Interactive Communication (RO-MAN)*, 2025
+- [Interactions Between Workers and Automated Guided Vehicles: Impact of eHMI Design](https://journals.sagepub.com/doi/abs/10.1177/10711813251372529), *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 69(1), 1166-1172*
